@@ -1,4 +1,5 @@
 # by SLMM  2026
+# versao 0.1.1
 
 import pygame
 import random

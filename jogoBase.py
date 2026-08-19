@@ -1,3 +1,5 @@
+# by SLMM  2026
+
 import pygame
 import random
 

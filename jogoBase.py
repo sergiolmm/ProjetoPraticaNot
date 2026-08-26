@@ -1,5 +1,6 @@
 # by SLMM  2026
 # versao 0.1.1
+# editado direto na main
 
 import pygame
 import random
